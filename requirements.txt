@@ -1,0 +1,19 @@
+# Core deep learning stack
+torch>=2.1.0
+torchvision>=0.16.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Evaluation and result handling
+pandas>=2.0.0
+tqdm>=4.66.0
+
+# Robustness benchmark classifier
+robustbench>=1.1
+
+# Optional but useful for plotting/post-processing
+matplotlib>=3.7.0
+
+# Utility dependencies commonly required by Score-SDE style code
+ml-collections>=0.1.1
+PyYAML>=6.0
